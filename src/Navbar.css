@@ -1,0 +1,20 @@
+body { margin:0px; }
+
+
+.navbar{
+    
+    background-color: #2F4F4F;
+    color: #FFEBCD;
+    font-size: x-large;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+}
+
+.navbar>*{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
